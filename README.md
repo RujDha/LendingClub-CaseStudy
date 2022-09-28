@@ -12,13 +12,13 @@
 
 ## General Information
 - Company: The largest online loan marketplace
-- Business Challenge: Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Not approving loans to the clients who are likely to repay, results in loss of business 
+- Business Challenge: Lending loans to risky applicants is the largest source of financial loss (called credit loss). Not approving loans to the clients who are likely to repay, results in loss of business 
 - Data: The client has provided loan historical data of the duration 2007 to 2011
 - Client's Expectation: Provide driving factors behind loan default
 
 
 ## Conclusions
-- 10 driving factors behind loan default are identified through Exploratory Data Analysis. The tangible details along with supportive plots are documented in ppt file (LeandingClub-CaseStudy.pptx)
+- 12 driving factors behind loan default are identified through Exploratory Data Analysis. The tangible details along with supportive plots are documented in ppt file (LeandingClub-CaseStudy.pptx)
 
 
 
@@ -39,4 +39,4 @@ Created by [@RujDha] - feel free to contact me!
 
 
 <!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+<!-- This project is open source  -->
