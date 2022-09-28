@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This is EDA case study to understand how consumer attributes and loan attributes influence the tendency of default. The client is keen to know the driving factors behind loan default. The client will use these details for portfolio and risk assessment for reducing defaulters (credit loss).
+
 
 
 ## Table of Contents
@@ -8,45 +9,34 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Company: The largest online loan marketplace
+- Business Challenge: Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Not approving loans to the clients who are likely to repay, results in loss of business 
+- Data: The client has provided loan historical data of the duration 2007 to 2011
+- Client's Expectation: Provide driving factors behind loan default
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 10 driving factors behind loan default are identified through Exploratory Data Analysis. The tangible details along with supportive plots are documented in ppt file (LeandingClub-CaseStudy.pptx)
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.5 (64 bits)
+- Jupiter Notebook - version 6.4.8
+- Git - version 2.37.3.windows.1
+- GitHub version 2.37.3
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrad Learning Platform
+- This project is part of EDA course case study
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@RujDha] - feel free to contact me!
 
 
-<!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
