@@ -18,7 +18,7 @@
 
 
 ## Conclusions
-- 12 driving factors behind loan default are identified through Exploratory Data Analysis. The tangible details along with supportive plots are documented in ppt file (LeandingClub-CaseStudy.pptx)
+- 12 driving factors behind loan default are identified through Exploratory Data Analysis. The tangible details along with supportive plots are documented in ppt file (Rujuta-LeandingClub-CaseStudy.pptx)
 
 
 
